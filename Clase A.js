@@ -3,6 +3,7 @@
 var Foo = (function () {
   // "private" variables
   var _bar;
+  var lorem;
 
   // constructor
   function Foo() {}
